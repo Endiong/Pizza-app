@@ -1,6 +1,6 @@
 # Pizza App
 
-A Java Swing desktop application for a pizza ordering interface. This is a **trial/prototype project** built to explore UI design and layout — not a production app.
+A Java Swing desktop application for a pizza ordering interface. This is a **trial/prototype project** built to explore UI design and layout, not a production app.
 
 ## What This Is
 
@@ -8,8 +8,8 @@ This is a front-end prototype. The screens (login, sign up, home, order, payment
 
 ## Prerequisites
 
-- Java JDK 8 or higher — [Download](https://www.oracle.com/java/technologies/downloads/)
-- NetBeans IDE 12+ (recommended) — [Download](https://netbeans.apache.org/front/main/download/)
+- Java JDK 8 or higher: [Download](https://www.oracle.com/java/technologies/downloads/)
+- NetBeans IDE 12+ (recommended): [Download](https://netbeans.apache.org/front/main/download/)
 
 ## Running the App
 
@@ -17,7 +17,7 @@ This is a front-end prototype. The screens (login, sign up, home, order, payment
 2. Navigate to this folder and open it
 3. Click the **Run** button (F6)
 
-That's it — no database setup required to run and explore the UI.
+That's it. No database setup required to run and explore the UI.
 
 ## Project Structure
 
