@@ -1,0 +1,14 @@
+# NetBeans compiled output
+build/
+dist/
+
+# NetBeans private/local IDE settings
+nbproject/private/
+
+# Environment variables file (never commit secrets)
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
