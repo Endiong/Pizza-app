@@ -12,3 +12,7 @@ nbproject/private/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Bundled Java runtime (too large for git)
+Pizza Delivery App/runtime/
+Pizza Delivery App/app/
